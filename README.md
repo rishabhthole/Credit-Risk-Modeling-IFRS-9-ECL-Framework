@@ -1,4 +1,4 @@
-# Integrated Credit Risk Modeling, Validation & MRM Framework
+# Credit Risk Modeling & IFRS 9 ECL Framework – Python
 ### Basel III-aligned PD/LGD/EAD modeling | IFRS 9 ECL-compatible | SR 11-7 MRM governance
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
